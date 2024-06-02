@@ -21,13 +21,14 @@ RUN chsh -s /usr/bin/zsh
 
 # install uv
 #RUN curl -LsSf https://astral.sh/uv/install.sh | sh
-
 #RUN cd /workspaces/python-devcontainer &&  /root/.cargo/bin/uv venv
 #RUN  /workspaces/python-devcontainer/.venv/bin/activate
-
-COPY ./requirements.txt requirements.txt
 #RUN /root/.cargo/bin/uv pip install --upgrade pip
 #RUN /root/.cargo/bin/uv pip  install -r requirements.txt
 # RUN source /root/.cargo/env
+
+COPY ./requirements.txt requirements.txt
+RUN pip install --upgrade pip && pip install -r requirements.txt
+RUN /usr/local/bin/nbdime config-git --enable --global
 ENV PYTHONBUFFERED=TRUE
 ENV DEVCONTAINER=true
