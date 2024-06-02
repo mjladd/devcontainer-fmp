@@ -1,0 +1,9 @@
+@inproceedings{PraetzlichDM16_MsDTW_ICASSP,
+author    = {Thomas Pr{\"a}tzlich and Jonathan Driedger and Meinard M{\"u}ller},
+title     = {Memory-Restricted Multiscale Dynamic Time Warping},
+booktitle = {Proceedings of the {IEEE} International Conference on Acoustics, Speech, and Signal Processing ({ICASSP})},
+address   = {Shanghai, China},
+year      = {2016},
+pages     = {569--573},
+url-pdf   = {2016_PraetzlichDriedgerMueller_MrMsDTW_ICASSP.pdf}
+}

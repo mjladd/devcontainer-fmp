@@ -1,0 +1,10 @@
+@inproceedings{LopezDOM19_ToolboxNMF_DAFx,
+author    = {Patricio L{\'o}pez-Serrano and Christian Dittmar and Yigitcan {\"O}zer and Meinard M{\"u}ller},
+title     = {{NMF} Toolbox: Music Processing Applications of Nonnegative Matrix Factorization},
+booktitle = {Proceedings of the International Conference on Digital Audio Effects ({DAFx})},
+address   = {Birmingham, UK},
+year      = {2019},
+pages     = {},
+url-pdf     = {2019_LopezSerranoDOM_NMF_DAFx.pdf},
+url-demo    = {https://www.audiolabs-erlangen.de/resources/MIR/NMFtoolbox/}
+}

@@ -1,0 +1,9 @@
+@inproceedings{RaffelMHSNLE14_MIReval_ISMIR,
+  author    = {Colin Raffel and Brian McFee and Eric J. Humphrey and Justin Salamon and Oriol Nieto and Dawen Liang and Daniel P. W. Ellis},
+  title     = {MIR{\_}EVAL: {A} Transparent Implementation of Common {MIR} Metrics},
+  booktitle = {Proceedings of the International Society for Music Information Retrieval Conference ({ISMIR})},
+  address   = {Taipei, Taiwan},
+  month     = {October},
+  pages     = {367--372},
+  year      = {2014}
+}

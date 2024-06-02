@@ -1,0 +1,7 @@
+@phdthesis{Serra11_VersionIdentification_Thesis,
+    author    = {Joan Serr{\`a}},
+    booktitle = {PhD Thesis},
+    school    = {Universitat Pompeu Fabra, Barcelona, Spain},
+    title     = {Identification of versions of the same musical composition by processing audio descriptions},
+    year      = {2011}
+}

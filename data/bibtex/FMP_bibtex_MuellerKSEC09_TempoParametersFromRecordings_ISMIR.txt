@@ -1,0 +1,10 @@
+@inproceedings{MuellerKSEC09_TempoParametersFromRecordings_ISMIR,
+author    = {Meinard M{\"u}ller and Verena Konz and Andi Scharfstein and Sebastian Ewert and Michael Clausen},
+title     = {Towards Automated Extraction of Tempo Parameters from Expressive Music Recordings},
+booktitle = {Proceedings of the International Society for Music Information Retrieval Conference ({ISMIR})},
+year      = {2009},
+month     = oct,
+address   = {Kobe, Japan},
+pages     = {69--74},
+url-pdf   = {2009_MuellerKonzScharfsteinEwertClausen_TempoCurves_ISMIR.pdf},
+}

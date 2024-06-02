@@ -1,0 +1,11 @@
+@article{MuellerABDW19_MusicRetrieval_IEEE-SPM,
+author    = {Meinard M{\"u}ller and Andreas Arzt and Stefan Balke and Matthias Dorfer and Gerhard Widmer},
+title     = {Cross-Modal Music Retrieval and Applications: An Overview of Key Methodologies},
+journal   = {{IEEE} Signal Processing Magazine},
+volume    = {36},
+number    = {1},
+pages     = {52--62},
+year      = {2019},
+url       = {https://doi.org/10.1109/MSP.2018.2868887},
+doi       = {10.1109/MSP.2018.2868887}
+}

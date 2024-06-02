@@ -1,0 +1,8 @@
+@inproceedings{BoeckKS12_EvalOnset_ISMIR,
+  author    = {Sebastian B{\"o}ck and Florian Krebs and Markus Schedl},
+  title     = {Evaluating the Online Capabilities of Onset Detection Methods},
+  booktitle = {Proceedings of the International Society for Music Information Retrieval Conference ({ISMIR})},
+  pages     = {49--54},
+  year      = {2012},
+  url       = {http://ismir2012.ismir.net/event/papers/049-ismir-2012.pdf}
+}

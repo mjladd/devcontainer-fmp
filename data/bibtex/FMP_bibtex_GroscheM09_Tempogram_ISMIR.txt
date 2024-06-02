@@ -1,0 +1,11 @@
+@inproceedings{GroscheM09_Tempogram_ISMIR,
+author    = {Peter Grosche and Meinard M{\"u}ller},
+title     = {A mid-level representation for capturing dominant tempo and pulse information in music recordings},
+booktitle = {Proceedings of the International Society for Music Information Retrieval Conference ({ISMIR})},
+year      = {2009},
+month     = oct,
+address   = {Kobe, Japan},
+pages     = {189--194},
+url-pdf   = {2009_GroscheMueller_Tempogram_ISMIR.pdf},
+url-details = {https://www.audiolabs-erlangen.de/resources/MIR/tempogramtoolbox}
+}

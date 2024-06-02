@@ -1,0 +1,8 @@
+@inproceedings {LeeS00_AlgorithmsNmf_NIPS,
+  author     = {Daniel D. Lee and H. Sebastian Seung},
+  title      = {Algorithms for Non-negative Matrix Factorization},
+  booktitle  = {Proceedings of the Neural Information Processing Systems ({NIPS})},
+  address    = {Denver, CO, USA},
+  year       = {2000},
+  pages      = {556--562}
+}

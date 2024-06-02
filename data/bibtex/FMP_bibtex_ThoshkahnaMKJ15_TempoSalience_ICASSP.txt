@@ -1,0 +1,9 @@
+@inproceedings{ThoshkahnaMKJ15_TempoSalience_ICASSP,
+author    = {Balaji Thoshkahna and Meinard M{\"u}ller and Venkatesh Kulkarni and Nanzhu Jiang},
+title     = {Novel Audio Features for Capturing Tempo Salience in Music Recordings},
+booktitle  = {Proceedings of the {IEEE} International Conference on Acoustics, Speech, and Signal Processing ({ICASSP})},
+address  = {Brisbane, Australia},
+year       = {2015},
+pages    = {181--185},
+url-pdf   = {2015_ThoshkahnaMVJ_TempoClarity_ICASSP.pdf}
+}

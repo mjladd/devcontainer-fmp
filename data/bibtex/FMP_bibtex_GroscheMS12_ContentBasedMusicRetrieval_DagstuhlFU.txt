@@ -1,0 +1,13 @@
+@InCollection{GroscheMS12_ContentBasedMusicRetrieval_DagstuhlFU,
+author  = {Peter Grosche and Meinard M{\"u}ller and Joan Serr{\`a}},
+title   = {Audio Content-Based Music Retrieval},
+booktitle = {Multimodal Music Processing},
+series  = {Dagstuhl Follow-Ups},
+pages   = {157--174},
+year        = {2012},
+volume  = {3},
+editor  = {Meinard M{\"u}ller and Masataka Goto and Markus Schedl},
+publisher = {Schloss Dagstuhl--Leibniz-Zentrum f\"ur Informatik},
+address     = {Dagstuhl, Germany},
+url-pdf   = {2012_GroscheMuellerSerra_ContentBasedRetrieval_DagstuhlFU.pdf}
+}

@@ -1,0 +1,10 @@
+@article{MuellerJG13_StructureAnaylsis_IEEE-TASLP,
+author    = {Meinard M{\"u}ller and Nanzhu Jiang and Peter Grosche},
+title     = {A Robust Fitness Measure for Capturing Repetitions in Music Recordings With Applications to Audio Thumbnailing},
+journal   = {IEEE Transactions on Audio, Speech, and Language Processing},
+volume    = {21},
+number    = {3},
+year      = {2013},
+pages     = {531-543},
+url-demo = {https://www.audiolabs-erlangen.de/resources/MIR/SMtoolbox}
+}

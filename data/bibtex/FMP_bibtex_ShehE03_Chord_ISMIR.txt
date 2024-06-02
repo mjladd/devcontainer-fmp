@@ -1,0 +1,6 @@
+@inproceedings{ShehE03_Chord_ISMIR,
+  author    = {Alexander Sheh and Daniel P. W. Ellis},
+  title     = {Chord segmentation and recognition using {EM}-trained hidden {M}arkov models},
+  booktitle = {Proceedings of the International Society for Music Information Retrieval Conference ({ISMIR})},
+  year      = {2003}
+}

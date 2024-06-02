@@ -1,0 +1,9 @@
+@inproceedings{LopezSerranoDM17_CHRPMidLevelFeatures_AES,
+  author    = {Patricio L{\'o}pez-Serrano and Christian Dittmar and Meinard M{\"u}ller},
+  title     = {Mid-Level Audio Features Based on Cascaded Harmonic-Residual-Percussive Separation},
+  booktitle = {Proceedings of the Audio Engineering Society Conference on Semantic Audio ({AES})},
+  month     = {June},
+  year      = {2017},
+  address   = {Erlangen, Germany},
+  pages     = {32--44}
+}

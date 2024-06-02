@@ -1,0 +1,9 @@
+@article{GriffinL84_SpecInversion_TASSP,
+  author={Daniel W. Griffin and Jae S. Lim},
+  title={Signal estimation from modified short-time {F}ourier transform},
+  journal={{IEEE} Transactions on Acoustics, Speech, and Signal Processing},
+  year={1984},
+  volume={32},
+  number={2},
+  pages={236--243}
+}

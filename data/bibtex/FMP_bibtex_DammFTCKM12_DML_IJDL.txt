@@ -1,0 +1,9 @@
+@article{DammFTCKM12_DML_IJDL,
+author    = {David Damm and Christian Fremerey and Verena Thomas and Michael Clausen and Frank Kurth and Meinard M{\"u}ller},
+title     = {A digital library framework for heterogeneous music collections: from document acquisition to cross-modal interaction},
+journal   = {International Journal on Digital Libraries: Special Issue on Music Digital Libraries},
+volume    = {12},
+number    = {2-3},
+year      = {2012},
+pages     = {53--71}
+}

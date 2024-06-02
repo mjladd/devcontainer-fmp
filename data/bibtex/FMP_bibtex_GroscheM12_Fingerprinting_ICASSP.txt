@@ -1,0 +1,9 @@
+@inproceedings{GroscheM12_Fingerprinting_ICASSP,
+author     = {Peter Grosche and Meinard M{\"u}ller},
+title      = {Toward Musically-Motivated Audio Fingerprints},
+booktitle  = {Proceedings of the {IEEE} International Conference on Acoustics, Speech, and Signal Processing ({ICASSP})},
+address  = {Kyoto, Japan},
+year       = {2012},
+pages    = {93--96},
+url-pdf   = {2012_GroscheMueller_Fingerprinting_ICASSP.pdf}
+}

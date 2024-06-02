@@ -1,0 +1,8 @@
+@inproceedings{Fitzgerald10_HarmPercSep_DAFX,
+  author      = {Derry FitzGerald},
+  title       = {Harmonic/Percussive Separation Using Median Filtering},
+  booktitle   = {Proceedings of the International Conference on Digital Audio Effects ({DAFx})},
+  address     = {Graz, Austria},
+  year        = {2010},
+  pages       = {246--253}
+}

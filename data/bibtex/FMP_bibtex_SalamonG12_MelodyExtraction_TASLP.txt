@@ -1,0 +1,9 @@
+@article{SalamonG12_MelodyExtraction_TASLP,
+	Author = {Justin Salamon and Emilia G{\'o}mez},
+	Title = {Melody Extraction from Polyphonic Music Signals using Pitch Contour Characteristics},
+	Journal = {IEEE Transactions on Audio, Speech, and Language Processing},
+	Number = {6},
+	Volume = {20},
+	Pages = {1759--1770},
+	Year = {2012}
+}

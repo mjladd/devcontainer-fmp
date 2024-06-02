@@ -1,0 +1,10 @@
+@inproceedings{KurthMFCC07_AutomatedSynchronization_ISMIR,
+author    = {Frank Kurth and Meinard M{\"u}ller and Christian Fremerey and Yoon-ha Chang and Michael Clausen},
+title     = {Automated Synchronization of Scanned Sheet Music with Audio Recordings},
+booktitle = {Proceedings of the International Conference on Music Information Retrieval ({ISMIR})},
+address   = {Vienna, Austria},
+month     = sep,
+year      = {2007},
+pages     = {261--266},
+url-pdf   = {2007_KurthMuellerFremereyClausen_AutomatedSynchronization_ISMIR.pdf},
+}

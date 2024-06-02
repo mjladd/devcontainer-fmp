@@ -1,0 +1,10 @@
+@inproceedings{MuellerEwert11_ChromaToolbox_ISMIR,
+author    = {Meinard M{\"u}ller and Sebastian Ewert},
+title     = {{C}hroma {T}oolbox: {MATLAB} implementations for extracting variants of chroma-based audio features},
+booktitle = {Proceedings of the International Conference on Music Information Retrieval ({ISMIR})},
+address   = {Miami, Florida, USA},
+year      = {2011},
+pages     = {215--220},
+url-pdf   = {2011_MuellerEwert_ChromaToolbox_ISMIR.pdf},
+url-details = {https://www.audiolabs-erlangen.de/resources/MIR/chromatoolbox}
+}

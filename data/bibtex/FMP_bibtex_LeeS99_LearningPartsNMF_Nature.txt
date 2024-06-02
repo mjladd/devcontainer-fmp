@@ -1,0 +1,9 @@
+@article{LeeS99_LearningPartsNMF_Nature,
+  author={Daniel D. Lee and H. Sebastian Seung},
+  title={Learning the parts of objects by non-negative matrix factorization},
+  volume={401},
+  number={6755},
+  journal={Nature},
+  year={1999},
+  pages={788--791}
+}

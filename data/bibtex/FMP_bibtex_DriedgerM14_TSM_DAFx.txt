@@ -1,0 +1,9 @@
+@inproceedings{DriedgerM14_TSM_DAFx,
+  author    = {Jonathan Driedger and Meinard M{\"u}ller},
+  title     = {{TSM} {T}oolbox: {MATLAB} Implementations of Time-Scale Modification Algorithms},
+  booktitle = {Proceedings of the International Conference on Digital Audio Effects ({DAFx})},
+  address   = {Erlangen, Germany},
+  year      = {2014},
+  pages     = {249--256},
+  url-demo = {https://www.audiolabs-erlangen.de/resources/MIR/TSMtoolbox/}
+}

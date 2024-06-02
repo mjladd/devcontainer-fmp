@@ -1,0 +1,10 @@
+@inproceedings{MuellerGJ11_MusicStructureFitness_ISMIR,
+author    = {Meinard M{\"u}ller and Peter Grosche and Nanzhu Jiang},
+title     = {A Segment-Based Fitness Measure for Capturing Repetitive Structures of Music Recordings},
+booktitle = {Proceedings of the International Conference on Music Information Retrieval ({ISMIR})},
+address = {Miami, Florida, USA},
+year      = {2011},
+pages     = {615--620},
+url-pdf   = {2011_MuellerGroscheJiang_AudioStructure_ISMIR.pdf},
+url-details = {https://www.audiolabs-erlangen.de/resources/MIR/SMtoolbox}
+}

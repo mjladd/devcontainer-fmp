@@ -1,0 +1,12 @@
+@article{GroscheM11_PLP_TASLP,
+author    = {Peter Grosche and Meinard M{\"u}ller},
+journal   = {IEEE Transactions on Audio, Speech, and Language Processing},
+title     = {Extracting Predominant Local Pulse Information from Music Recordings},
+number    = {6},
+publisher = {IEEE},
+volume    = {19},
+year      = {2011},
+pages     = {1688--1701},
+URL      = {http://dx.doi.org/10.1109/TASL.2010.2096216},
+url-details = {https://www.audiolabs-erlangen.de/resources/MIR/tempogramtoolbox}
+}

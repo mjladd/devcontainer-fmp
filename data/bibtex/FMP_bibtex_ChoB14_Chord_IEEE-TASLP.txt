@@ -1,0 +1,10 @@
+@article{ChoB14_Chord_IEEE-TASLP,
+  author    = {Taemin Cho and Juan Pablo Bello},
+  title     = {On the Relative Importance of Individual Components of Chord Recognition Systems},
+  journal   = {{IEEE/ACM} Transactions on Audio, Speech, and Language Processing},
+  volume    = {22},
+  number    = {2},
+  year      = {2014},
+  pages     = {477--492},
+  ee        = {http://dx.doi.org/10.1109/TASLP.2013.2295926}
+}

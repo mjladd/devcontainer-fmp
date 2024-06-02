@@ -1,0 +1,9 @@
+@inproceedings{MuellerJiang12_ScapePlot_ISMIR,
+author    = {Meinard M{\"u}ller and Nanzhu Jiang},
+title     = {A scape plot representation for visualizing repetitive structures of music recordings},
+booktitle = {Proceedings of the International Conference on Music Information Retrieval ({ISMIR})},
+address   = {Porto, Portugal},
+year      = {2012},
+pages     = {97-102},
+url-pdf   = {2012_MuellerJiang_StructureVisualization_ISMIR.pdf}
+}

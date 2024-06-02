@@ -1,0 +1,10 @@
+@article{SerraMFA14_AudioStructure_IEEE-TMM,
+author    = {Joan Serr{\`a} and Meinard M{\"u}ller and Peter Grosche and Josep Ll. Arcos},
+title     = {Unsupervised Music Structure Annotation by Time Series Structure Features and Segment Similarity},
+journal   = {IEEE Transactions on Multimedia},
+volume    = {16},
+number    = {5},
+year      = {2014},
+pages     = {1229--1240},
+doi =       {10.1109/TMM.2014.2310701},
+}

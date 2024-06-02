@@ -1,0 +1,9 @@
+@inproceedings{GroscheSMA12_StructureAudioFingerprint_ISMIR,
+author    = {Peter Grosche and Joan Serr{\`a} and Meinard M{\"u}ller and Josep Ll. Arcos},
+title     = {Structure-based audio fingerprinting for music retrieval},
+booktitle = {Proceedings of the International Conference on Music Information Retrieval ({ISMIR})},
+address   = {Porto, Portugal},
+year      = {2012},
+pages     = {55--60},
+url-pdf   = {2012_GroscheSerraMuellerArcos_StructureFingerprints_ISMIR.pdf}
+}

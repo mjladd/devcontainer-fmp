@@ -1,0 +1,9 @@
+@article{SerraGHS08_CoverSong_IEEE-TASLP,
+	author    = {Joan  Serr{\`a} and Emilia G{\'o}mez and Perfecto Herrera and Xavier Serra},
+	title     = {Chroma Binary Similarity and Local Alignment Applied to Cover Song Identification},
+	journal   = {{IEEE} Transactions on Audio, Speech, and Language Processing},
+	volume    = {16},
+	year      = {2008},
+	pages     = {1138--1151},
+	keywords  = {acoustic signal analysis, dynamic programming, information retrieval, multidimensional sequences, music}
+}

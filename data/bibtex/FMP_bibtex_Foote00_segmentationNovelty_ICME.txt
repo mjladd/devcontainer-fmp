@@ -1,0 +1,8 @@
+@InProceedings{Foote00_segmentationNovelty_ICME,
+  author = {Jonathan Foote},
+  title = {Automatic audio segmentation using a measure of audio novelty},
+  pages = {452--455},
+  booktitle = {Proceedings of the {IEEE} International Conference on Multimedia and Expo (ICME)},
+  year = {2000},
+  address = {New York, NY, USA}
+}

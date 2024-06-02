@@ -1,0 +1,8 @@
+@inproceedings{HarteSAG05_ChordRecognition_ISMIR,
+  author    = {Christopher Harte and Mark B. Sandler and Samer Abdallah and Emilia G\'{o}mez},
+  title     = {Symbolic Representation of Musical Chords: A Proposed Syntax for Text Annotations},
+  booktitle = {Proceedings of the International Society for Music Information Retrieval Conference ({ISMIR})},
+  address   = {London, UK},
+  year      = {2005},
+  pages     = {66--71}
+}

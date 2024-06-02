@@ -1,0 +1,9 @@
+@article{CaseyVGLRS08_contentBasedRetrieval_IEEE,
+    author     = {Michael A. Casey and Remco Veltkap and Masataka Goto and Marc Leman and Christophe Rhodes and Malcolm Slaney},
+    title     = {Content-Based Music Information Retrieval: Current Directions and Future Challenges},
+    journal = {Proceedings of the IEEE},
+    volume     = {96},
+    number     = {4},
+    year     = {2008},
+    pages     = {668--696}
+}

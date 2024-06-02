@@ -1,0 +1,12 @@
+@article{MullerPMV19_Editorial_IEEE-SPM,
+author    = {Meinard M{\"u}ller and Bryan Pardo and Gautham J. Mysore and Vesa V{\"a}lim{\"a}ki},
+title     = {Recent Advances in Music Signal Processing},
+journal   = {{IEEE} Signal Processing Magazine},
+volume    = {36},
+number    = {1},
+pages     = {17--19},
+year      = {2019},
+url       = {https://doi.org/10.1109/MSP.2018.2876190},
+doi       = {10.1109/MSP.2018.2876190},
+url-details={https://ieeexplore.ieee.org/document/8588415/}
+}

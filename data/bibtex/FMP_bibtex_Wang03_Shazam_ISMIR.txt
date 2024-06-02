@@ -1,0 +1,8 @@
+@inproceedings{Wang03_Shazam_ISMIR,
+  author      = {Avery Wang},
+  title       = {An Industrial Strength Audio Search Algorithm},
+  booktitle   = {Proceedings of the International Society for Music Information Retrieval Conference ({ISMIR})},
+  address     = {Baltimore, Maryland, USA},
+  year        = {2003},
+  pages       = {7--13}
+}

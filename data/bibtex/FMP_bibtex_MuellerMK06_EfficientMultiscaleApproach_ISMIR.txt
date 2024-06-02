@@ -1,0 +1,10 @@
+@inproceedings{MuellerMK06_EfficientMultiscaleApproach_ISMIR,
+author    = {Meinard M{\"u}ller and Henning Mattes and Frank Kurth},
+title     = {An Efficient Multiscale Approach to Audio Synchronization},
+booktitle = {Proceedings of the International Conference on Music Information Retrieval ({ISMIR})},
+address   = {Victoria, Canada},
+month     = oct,
+year      = {2006},
+pages     = {192--197},
+url-pdf   = {2006_MuellerMattesKurth_MultiscaleAudioSynchronization_ISMIR.pdf},
+}

@@ -1,0 +1,11 @@
+@proceedings{MuellerGS12_MultimodalMusicProcessing_DagstuhlFU,
+editor    = {Meinard M{\"u}ller and Masataka Goto and Markus Schedl},
+title     = {Multimodal Music Processing},
+booktitle = {Multimodal Music Processing},
+publisher = {Schloss Dagstuhl - Leibniz-Zentrum f{\"u}r Informatik, Germany},
+series    = {Dagstuhl Follow-Ups},
+volume    = {3},
+year      = {2012},
+isbn      = {978-3-939897-37-8},
+url-pdf   = {2012_MuellerGS_MultimodalMusicProcessing_DagstuhlFU.pdf}
+}

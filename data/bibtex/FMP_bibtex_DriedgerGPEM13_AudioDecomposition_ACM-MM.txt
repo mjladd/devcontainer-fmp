@@ -1,0 +1,11 @@
+
+@inproceedings{DriedgerGPEM13_AudioDecomposition_ACM-MM,
+author    = {Jonathan Driedger and Harald Grohganz and Thomas Pr{\"a}tzlich and Sebastian Ewert and Meinard M{\"u}ller},
+title     = {Score-Informed Audio Decomposition and Applications},
+booktitle = {Proceedings of the {ACM} International Conference on Multimedia ({ACM-MM})},
+address   = {Barcelona, Spain},
+year      = {2013},
+pages     = {541--544},
+url-pdf   = {2013_DriedgerGPEM_SourceSeparationInterface_ACM.pdf},
+url-details = {https://www.audiolabs-erlangen.de/resources/2013-ACMMM-AudioDecomp/}
+}

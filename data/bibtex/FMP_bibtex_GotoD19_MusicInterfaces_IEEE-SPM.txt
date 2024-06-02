@@ -1,0 +1,11 @@
+@article{GotoD19_MusicInterfaces_IEEE-SPM,
+author    = {Masataka Goto and Roger B. Dannenberg},
+title     = {Music Interfaces Based on Automatic Music Signal Analysis: New Ways to Create and Listen to Music},
+journal   = {{IEEE} Signal Processing Magazine},
+volume    = {36},
+number    = {1},
+pages     = {74--81},
+year      = {2019},
+url       = {https://doi.org/10.1109/MSP.2018.2874360},
+doi       = {10.1109/MSP.2018.2874360}
+}

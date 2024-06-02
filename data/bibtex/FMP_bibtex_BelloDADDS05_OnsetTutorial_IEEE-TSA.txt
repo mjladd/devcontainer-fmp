@@ -1,0 +1,9 @@
+@article{BelloDADDS05_OnsetTutorial_IEEE-TSA,
+  author    = {Juan Pablo Bello and Laurent Daudet and Samer Abdallah and Chris Duxbury and Mike Davies and Mark B. Sandler},
+  journal   = {{IEEE} Transactions on Speech and Audio Processing},
+  number    = {5},
+  pages     = {1035--1047},
+  title     = {A Tutorial on Onset Detection in Music Signals},
+  volume    = {13},
+  year      = {2005}
+}

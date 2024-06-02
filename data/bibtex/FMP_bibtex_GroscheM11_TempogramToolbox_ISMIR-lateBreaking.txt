@@ -1,0 +1,9 @@
+@inproceedings{GroscheM11_TempogramToolbox_ISMIR-lateBreaking,
+author = {Peter Grosche and Meinard M{\"u}ller},
+title = {{T}empogram {T}oolbox: {MATLAB} Implementations for Tempo and Pulse Analysis of Music Recordings},
+booktitle = {Late-Breaking and Demo Session of the 12th International Conference on Music Information Retrieval ({ISMIR})},
+address = {Miami, USA},
+year = {2011},
+url-pdf = {2011_GroscheMueller_TempogramToolbox_ISMIR-LateBreaking.pdf},
+url-details = {https://www.audiolabs-erlangen.de/resources/MIR/tempogramtoolbox}
+}

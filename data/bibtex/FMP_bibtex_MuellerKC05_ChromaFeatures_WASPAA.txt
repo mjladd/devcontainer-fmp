@@ -1,0 +1,11 @@
+@inproceedings{MuellerKC05_ChromaFeatures_WASPAA,
+author    = {Meinard M{\"u}ller and Frank Kurth and Michael Clausen},
+title     = {Chroma-Based Statistical Audio Features for Audio Matching},
+booktitle = {Proceedings of the Workshop on Applications of Signal Processing ({WASPAA})},
+address   = {New Paltz, New York, USA},
+month     = oct,
+year      = {2005},
+pages     = {275--278},
+url-pdf   = {2005_MuellerKurthClausen_ChromaAudioFeatures_WASPAA.pdf},
+url-details = {https://www.audiolabs-erlangen.de/resources/MIR/chromatoolbox}
+}

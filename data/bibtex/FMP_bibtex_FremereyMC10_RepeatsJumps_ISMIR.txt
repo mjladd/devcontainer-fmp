@@ -1,0 +1,9 @@
+@inproceedings{FremereyMC10_RepeatsJumps_ISMIR,
+author    = {Christian Fremerey and Meinard M{\"u}ller and Michael Clausen},
+title     = {Handling Repeats and Jumps in Score-Performance Synchronization},
+booktitle = {Proceedings of the International Conference on Music Information Retrieval ({ISMIR})},
+address   = {Utrecht, The Netherlands},
+year      = {2010},
+pages     = {243--248},
+url-pdf   = {2010_FremereyMuellerClausen_PartialSync_ISMIR.pdf},
+}

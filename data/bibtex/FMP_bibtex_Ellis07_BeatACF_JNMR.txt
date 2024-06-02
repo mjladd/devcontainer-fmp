@@ -1,0 +1,9 @@
+@article{Ellis07_BeatACF_JNMR,
+  title     = {Beat Tracking by Dynamic Programming},
+  author    = {Daniel P.W. Ellis},
+  journal   = {Journal of New Music Research},
+  year      = {2007},
+  volume    = {36},
+  number    = {1},
+  pages     = {51--60}
+}

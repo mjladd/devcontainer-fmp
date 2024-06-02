@@ -1,0 +1,8 @@
+@inproceedings{NietoB16_MSAF_ISMIR,
+  author    = {Oriol Nieto and Juan Pablo Bello},
+  title     = {Systematic Exploration Of Computational Music Structure Research},
+  booktitle = {Proceedings of the International Conference on Music Information Retrieval ({ISMIR})},
+  address   = {New York City, USA},
+  year      = {2016},
+  pages     = {547--553}
+}

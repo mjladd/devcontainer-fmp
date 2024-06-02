@@ -1,0 +1,7 @@
+@inproceedings{JiangGKM11_Chord_AES,
+    author    = {Nanzhu Jiang and Peter Grosche and Verena Konz and Meinard M{\"u}ller},
+    title     = {Analyzing Chroma Feature Types for Automated Chord Recognition},
+	booktitle = {Proceedings of the {AES} Conference on Semantic Audio},
+	address = {Ilmenau, Germany},
+    year      = {2011}  	
+}

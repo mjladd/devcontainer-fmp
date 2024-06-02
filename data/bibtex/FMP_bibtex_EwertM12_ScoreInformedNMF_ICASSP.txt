@@ -1,0 +1,10 @@
+@inproceedings{EwertM12_ScoreInformedNMF_ICASSP,
+author     = {Sebastian Ewert and Meinard M{\"u}ller},
+title      = {Using Score-Informed Constraints for {NMF}-based Source Separation},
+booktitle  = {Proceedings of the {IEEE} International Conference on Acoustics, Speech, and Signal Processing ({ICASSP})},
+address  = {Kyoto, Japan},
+year       = {2012},
+pages    = {129--132},
+url-pdf   = {2012_EwertMueller_ScoreConstrainedNMF_ICASSP.pdf},
+url-details = {http://resources.mpi-inf.mpg.de/MIR/ICASSP2012-ScoreInformedNMF/}
+}

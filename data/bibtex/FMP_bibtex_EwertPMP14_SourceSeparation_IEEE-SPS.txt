@@ -1,0 +1,10 @@
+@article{EwertPMP14_SourceSeparation_IEEE-SPS,
+author    = {Sebastian Ewert and Bryan Pardo and Meinard M{\"u}ller and Mark Plumbley},
+title     = {Score-Informed Source Separation for Musical Audio Recordings},
+journal   = {IEEE Signal Processing Magazine},
+volume    = {31},
+number    = {3},
+year      = {2014},
+pages     = {116--124},
+url-details = {http://resources.mpi-inf.mpg.de/MIR/ICASSP2012-ScoreInformedNMF/}
+}

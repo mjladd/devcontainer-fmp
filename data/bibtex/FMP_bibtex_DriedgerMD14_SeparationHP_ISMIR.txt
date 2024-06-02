@@ -1,0 +1,9 @@
+@inproceedings{DriedgerMD14_SeparationHP_ISMIR,
+  author    = {Jonathan Driedger and Meinard M{\"u}ller and Sascha Disch},
+  title     = {Extending Harmonic-Percussive Separation of Audio Signals},
+  booktitle = {Proceedings of the International Conference on Music Information Retrieval ({ISMIR})},
+  address   = {Taipei, Taiwan},
+  year      = {2014},
+  pages     = {611--616},
+  url-demo = {https://www.audiolabs-erlangen.de/resources/2014-ISMIR-ExtHPSep/}  
+}

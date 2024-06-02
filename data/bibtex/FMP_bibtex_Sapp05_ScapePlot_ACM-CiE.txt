@@ -1,0 +1,9 @@
+@article{Sapp05_ScapePlot_ACM-CiE,
+  author    = {Craig Stuart Sapp},
+  title     = {Visual Hierarchical Key Analysis},
+  journal   = {ACM Computers in Entertainment},
+  volume    = {3},
+  number    = {4},
+  year      = {2005},
+  pages     = {1--19}
+}

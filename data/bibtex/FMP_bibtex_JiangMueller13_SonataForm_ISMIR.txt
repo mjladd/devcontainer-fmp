@@ -1,0 +1,12 @@
+
+
+@inproceedings{JiangMueller13_SonataForm_ISMIR,
+author    = {Nanzhu Jiang and Meinard M{\"u}ller},
+title     = {Automated methods for analyzing music recordings in sonata form},
+booktitle = {Proceedings of the International Conference on Music Information Retrieval ({ISMIR})},
+address   = {Curitiba, Brazil},
+year      = {2013},
+pages     = {595--600},
+url-pdf   = {2013_JiangMueller_StructureSonataBeethoven_ISMIR.pdf}
+}
+

@@ -1,0 +1,9 @@
+@article{DriedgerME14_HPTSM_IEEE-SPL,
+author = {Jonathan Driedger and Meinard M{\"u}ller and Sebastian Ewert},
+journal = {{IEEE} Signal Processing Letters},
+title = {Improving Time-Scale Modification of Music Signals Using Harmonic-Percussive Separation},
+year = {2014},
+volume = {21},
+number = {1},
+pages   = {105--109}
+}

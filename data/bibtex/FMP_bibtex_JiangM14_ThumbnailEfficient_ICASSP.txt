@@ -1,0 +1,9 @@
+@inproceedings{JiangM14_ThumbnailEfficient_ICASSP,
+author     = {Nanzhu Jiang and Meinard M{\"u}ller},
+title      = {Towards Efficient Audio Thumbnailing},
+booktitle  = {Proceedings of the {IEEE} International Conference on Acoustics, Speech, and Signal Processing ({ICASSP})},
+address  = {Florence, Italy},
+pages    = {5192--5196},
+year       = {2014},
+url-pdf   = {2014_JiangMueller_ScapePlotMultiRes_ICASSP.pdf}
+}

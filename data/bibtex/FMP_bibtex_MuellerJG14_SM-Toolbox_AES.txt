@@ -1,0 +1,9 @@
+@inproceedings{MuellerJG14_SM-Toolbox_AES,
+author    = {Meinard M{\"u}ller and Nanzhu Jiang and Harald Grohganz},
+title     = {{SM} {T}oolbox: {MATLAB} implementations for computing and enhancing similarity matrices},
+booktitle = {Proceedings of the 53rd {AES} Conference on Semantic Audio},
+address   = {London, UK},
+year      = {2014},
+url-pdf   = {2014_MuellerJiangGrohganz_ToolboxSM_AES.pdf},
+url-details = {https://www.audiolabs-erlangen.de/resources/MIR/SMtoolbox}
+}

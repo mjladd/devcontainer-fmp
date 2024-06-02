@@ -1,0 +1,8 @@
+@inproceedings{MuellerKC05_ChromaFeatures_ISMIR,
+	author    = {Meinard M{\"u}ller and Frank Kurth and Michael Clausen},
+	title     = {Audio Matching via Chroma-Based Statistical Features},
+	booktitle = {Proceedings of the International Conference on Music Information Retrieval ({ISMIR})},
+	year      = {2005},
+	pages     = {288--295},
+	url-pdf   = {2005_MuellerKurthClausen_AudioMatching_ISMIR.pdf}
+}

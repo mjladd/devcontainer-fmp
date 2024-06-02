@@ -1,0 +1,9 @@
+@inproceedings{SerraMGA12_BoundaryDetection_AAAI,
+author      = {Joan Serr{\`a} and Meinard M{\"u}ller and Peter Grosche and Josep Llu\'{\i}s Arcos},
+title       = {Unsupervised detection of music boundaries by time series structure features},
+booktitle   = {Proceedings of the AAAI International Conference on Artificial Intelligence},
+address     = {Toronto, Ontario, Canada},
+year        = {2012},
+ee        = {http://www.aaai.org/ocs/index.php/AAAI/AAAI12/paper/view/4907},
+url-pdf   = {2012_SerraMGA_TimeSeriesStructureFeature_AAAI.pdf}
+}

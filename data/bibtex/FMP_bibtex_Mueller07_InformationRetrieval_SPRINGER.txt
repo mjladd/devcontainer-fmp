@@ -1,0 +1,8 @@
+@book{Mueller07_InformationRetrieval_SPRINGER,
+author    = {Meinard M\"{u}ller},
+title     = {Information Retrieval for Music and Motion},
+type      = {Monograph},
+year      = {2007},
+isbn      = {3540740473},
+publisher = {Springer Verlag},
+}

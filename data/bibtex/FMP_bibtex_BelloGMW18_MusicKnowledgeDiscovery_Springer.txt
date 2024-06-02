@@ -1,0 +1,12 @@
+@InCollection{BelloGMW17_MusicKnowledgeDiscovery_Springer,
+author = {Juan P. Bello and Peter Grosche and Meinard M{\"u}ller and Ron J. Weiss},
+title = {Content-based Methods for Knowledge Discovery in Music},
+booktitle = {Springer Handbook on Systematic Musicology},
+year = {2018},
+editor    = {Rolf Bader},
+publisher = {Springer, Berlin, Heidelberg},
+pages = {823-840},
+ISBN = {978-3-662-55002-1},
+doi = {https://doi.org/10.1007/978-3-662-55004-5_39},
+url-details={https://link.springer.com/chapter/10.1007%2F978-3-662-55004-5_39}
+}

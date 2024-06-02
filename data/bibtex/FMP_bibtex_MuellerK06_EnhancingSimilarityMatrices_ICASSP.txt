@@ -1,0 +1,9 @@
+@inproceedings{MuellerK06_EnhancingSimilarityMatrices_ICASSP,
+author    = {Meinard M{\"u}ller and Frank Kurth},
+title     = {Enhancing Similarity Matrices for Music Audio Analysis},
+booktitle = {Proceedings of the 32th International Conference on Acoustics, Speech, and Signal Processing ({ICASSP})},
+address   = {Toulouse, France},
+month     = may,
+year      = {2006},
+pages     = {437--440}
+}

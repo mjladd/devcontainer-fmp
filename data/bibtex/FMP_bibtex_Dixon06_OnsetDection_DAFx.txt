@@ -1,0 +1,9 @@
+@inproceedings{Dixon06_OnsetDection_DAFx,
+  Title     = {Onset Detection Revisited},
+  Author    = {Simon Dixon},
+  Booktitle = {Proceedings of the International Conference on Digital Audio Effects ({DAFx})},
+  Address   = {Montreal, Quebec, Canada},
+  Year      = {2006},
+  Pages     = {133--137},
+  month     = {September},
+}

@@ -1,0 +1,9 @@
+@inproceedings{GroscheMS10_BeatTrackingErrors_ISMIR,
+author    = {Peter Grosche and Meinard M{\"u}ller and Craig Stuart Sapp},
+title     = {What makes beat tracking difficult? {A} case study on {C}hopin {M}azurkas},
+booktitle = {Proceedings of the International Conference on Music Information Retrieval ({ISMIR})},
+address   = {Utrecht, The Netherlands},
+year      = {2010},
+pages     = {649--654},
+url-pdf   = {2010_GroscheMuellerSapp_BeatError_ISMIR.pdf},
+}

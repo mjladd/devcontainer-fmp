@@ -1,0 +1,9 @@
+@inproceedings{PaulusMK10_MusicStructure-STAR_ISMIR,
+author    = {Jouni Paulus and Meinard M{\"u}ller and Anssi Klapuri},
+title     = {Audio-based Music Structure Analysis},
+booktitle = {Proceedings of the International Conference on Music Information Retrieval ({ISMIR})},
+address   = {Utrecht, The Netherlands},
+year      = {2010},
+pages     = {625--636},
+url-pdf   = {2010_PaulusMuellerKlapuri_STAR-MusicStructure_ISMIR.pdf},
+}

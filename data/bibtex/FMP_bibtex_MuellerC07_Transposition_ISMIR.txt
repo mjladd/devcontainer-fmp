@@ -1,0 +1,9 @@
+@inproceedings{MuellerC07_Transposition_ISMIR,
+author    = {Meinard M{\"u}ller and Michael Clausen},
+title     = {Transposition-Invariant Self-Similarity Matrices},
+booktitle = {Proceedings of the International Conference on Music Information Retrieval ({ISMIR})},
+address   = {Vienna, Austria},
+month     = sep,
+year      = {2007},
+pages     = {47--50}
+}

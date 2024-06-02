@@ -1,0 +1,9 @@
+@inproceedings{GroscheM12_RetrievalShingles_ICASSP,
+author     = {Peter Grosche and Meinard M{\"u}ller},
+title      = {Toward Characteristic Audio Shingles for Efficient Cross-Version Music Retrieval},
+booktitle  = {Proceedings of the {IEEE} International Conference on Acoustics, Speech, and Signal Processing ({ICASSP})},
+address  = {Kyoto, Japan},
+year       = {2012},
+pages    = {473--476},
+url-pdf   = {2012_GroscheMueller_RetrievalShingles_ICASSP.pdf}
+}
