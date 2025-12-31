@@ -13,22 +13,28 @@ RUN sh -c "$(curl -L  https://github.com/deluan/zsh-in-docker/releases/download/
     -a 'alias sl=ls' \
     -a "alias ls='ls -p'" \
     -a 'unsetopt AUTO_REMOVE_SLASH' \
-    -a 'export PYTHONDONTWRITEBYTECODE=1'
-
+    -a 'export PYTHONDONTWRITEBYTECODE=1' \
+    -a 'export PATH="/root/.local/bin:$PATH"'
 
 # Change default SHELL
 RUN chsh -s /usr/bin/zsh
 
-# install uv
-#RUN curl -LsSf https://astral.sh/uv/install.sh | sh
-#RUN cd /workspaces/python-devcontainer &&  /root/.cargo/bin/uv venv
-#RUN  /workspaces/python-devcontainer/.venv/bin/activate
-#RUN /root/.cargo/bin/uv pip install --upgrade pip
-#RUN /root/.cargo/bin/uv pip  install -r requirements.txt
-# RUN source /root/.cargo/env
+# Install uv
+COPY --from=ghcr.io/astral-sh/uv:latest /uv /usr/local/bin/uv
 
-COPY ./requirements.txt requirements.txt
-RUN pip install --upgrade pip && pip install -r requirements.txt
-RUN /usr/local/bin/nbdime config-git --enable --global
+# Copy project files
+COPY ./pyproject.toml /tmp/pyproject.toml
+
+# Create virtual environment and install dependencies using uv
+WORKDIR /tmp
+RUN uv venv /opt/venv && \
+    uv pip install --python /opt/venv/bin/python -r pyproject.toml
+
+# Configure nbdime for git
+RUN /opt/venv/bin/nbdime config-git --enable --global
+
+# Set environment variables
 ENV PYTHONBUFFERED=TRUE
 ENV DEVCONTAINER=true
+ENV PATH="/opt/venv/bin:$PATH"
+ENV VIRTUAL_ENV="/opt/venv"

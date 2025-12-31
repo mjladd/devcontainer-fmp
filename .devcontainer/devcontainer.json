@@ -18,7 +18,8 @@
 				"ms-python.mypy",
 				"ms-python.pylint",
 				"ms-python.flake8",
-				"ms-python.black-formatter"
+				"ms-python.black-formatter",
+				"charliermarsh.ruff"
 			],
 			"settings": {
                 "python.testing.pytestArgs": [
@@ -27,9 +28,18 @@
                 "python.testing.unittestEnabled": false,
                 "python.testing.pytestEnabled": true,
 				"python.terminal.activateEnvInCurrentTerminal": true,
-				"python.defaultInterpreterPath": ".venv/bin/python"
+				"python.defaultInterpreterPath": "/opt/venv/bin/python"
             }
 	    }
-	}
+	},
+
+	// Set environment variables
+	"remoteEnv": {
+		"PATH": "/opt/venv/bin:${containerEnv:PATH}",
+		"VIRTUAL_ENV": "/opt/venv"
+	},
+
+	// Run commands after the container is created
+	"postCreateCommand": "uv pip install --python /opt/venv/bin/python -e ."
 }
 
